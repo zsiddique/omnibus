@@ -50,3 +50,4 @@ end
 # TODO - use a proper Ruby cookbook for this
 include_recipe "omnibus::ruby"
 include_recipe "omnibus::github"
+include_recipe "omnibus::bitbucket"
